@@ -28,7 +28,8 @@
 ## 🌟 Featured Projects
 
 - 🗂️ **metadataexplorer**  
-- 🛡️ **small-project-defender**  
+- 🛡️ **small-project-defender**
+- 📖 **notes**
 
 ---
 
