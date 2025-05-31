@@ -7,8 +7,7 @@
 
 ## 🚀 About Me
 
-- 💻 **Fullstack Developer**  
-- 🌍 Based on Planet Code  
+- 💻 **Fullstack Developer**
 - 🧠 Currently learning: Rust & Advanced TypeScript  
 - 🤝 Open to collaborating on interesting projects!
 
