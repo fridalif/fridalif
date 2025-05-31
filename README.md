@@ -27,9 +27,9 @@
 
 ## 🌟 Featured Projects
 
-- 🗂️ [**metadataexplorer**] (https://github.com/fridalif/metadataexplorer/)  
-- 🛡️ [**small-project-defender**] (https://github.com/fridalif/small-project-defender/)
-- 📖 [**notes**] (https://github.com/fridalif/notes/)
+- 🗂️ [**metadataexplorer**](https://github.com/fridalif/metadataexplorer/)  
+- 🛡️ [**small-project-defender**](https://github.com/fridalif/small-project-defender/)
+- 📖 [**notes**](https://github.com/fridalif/notes/)
 
 ---
 
