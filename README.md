@@ -52,6 +52,3 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Let%27s+build+something+awesome+together!+%F0%9F%92%A1" alt="Let's build something awesome together!"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fridalif&theme=tokyonight&hide_border=true"/>
-</p>
