@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Fridalif! 👋</h1>
 <p align="center">
-  <img src="https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292" width="100" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100">
 </p>
 
 ---
